@@ -15,5 +15,8 @@
   },
   "engines": {
     "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "recharts": "^2.15.3"
   }
 }
